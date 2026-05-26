@@ -1,4 +1,4 @@
-# *aisurv R package*
+# *aisurv Python package*
 
 - **It is still in preparation!!!**
 
@@ -6,7 +6,7 @@
 
 This is an R package for analyzing ...
 - ...
-- *This R package was contributed by **Jie Ding** and **XXX**.*
+- *This Python package was contributed by **Jie Ding**, **XXX** and **Xiaoguang Wang**.*
 
 ## Package description and included main functions
 
